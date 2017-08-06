@@ -7,7 +7,6 @@ import java.util.TreeSet;
 
 /**
  * Extract consists of methods that extract information from a list of tweets.
-
  */
 public class Extract {
 	private static final String validChars = "abcdefghijklmnopqrstuvwxyz" + "ABCDEFGHIJKLMNOPQRSTUVWXYZ" + "0123456789-_";
