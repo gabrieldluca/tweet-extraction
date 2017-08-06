@@ -1,5 +1,5 @@
 # Tweet Extraction
-This project contains a toolbox of built-in methods that can extract information from a dataset of tweets downloaded from Twitter.
+This project contains a toolbox of built-in methods that can extract information from a dataset of tweets from [Twitter](https://twitter.com/).
 
 The main objective was to develop accurate classes to extract, filter and create social networks over a prospective dataset, implementing test cases based on *software testing* principles according to the provided specifications. This is achieved by:
 
